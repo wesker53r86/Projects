@@ -1,0 +1,12 @@
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Debug\HW9.exe.config
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Debug\HW9.exe
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Debug\HW9.pdb
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.csprojResolveAssemblyReference.cache
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.exe
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.pdb
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Debug\HW9.Form1.resources
+E:\HOMEWORKS\Homework9\HW9\HW9\bin\Debug\HW9.exe.config
+E:\HOMEWORKS\Homework9\HW9\HW9\obj\Debug\HW9.exe
+E:\HOMEWORKS\Homework9\HW9\HW9\obj\Debug\HW9.pdb

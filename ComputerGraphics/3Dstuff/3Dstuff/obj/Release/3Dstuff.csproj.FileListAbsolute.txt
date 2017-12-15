@@ -1,0 +1,9 @@
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Release\3Dstuff.exe.config
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Release\3Dstuff.exe
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Release\3Dstuff.pdb
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\3Dstuff.csprojResolveAssemblyReference.cache
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\_3Dstuff.Form1.resources
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\_3Dstuff.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\3Dstuff.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\3Dstuff.exe
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Release\3Dstuff.pdb

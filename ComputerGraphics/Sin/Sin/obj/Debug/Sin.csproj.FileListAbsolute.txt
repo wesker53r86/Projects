@@ -1,0 +1,9 @@
+D:\Notepad++\Projects\CS 480\Sin\Sin\bin\Debug\Sin.exe.config
+D:\Notepad++\Projects\CS 480\Sin\Sin\bin\Debug\Sin.exe
+D:\Notepad++\Projects\CS 480\Sin\Sin\bin\Debug\Sin.pdb
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.csprojResolveAssemblyReference.cache
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.Form1.resources
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.exe
+D:\Notepad++\Projects\CS 480\Sin\Sin\obj\Debug\Sin.pdb

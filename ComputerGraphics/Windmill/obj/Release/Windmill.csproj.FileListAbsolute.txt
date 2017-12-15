@@ -1,0 +1,9 @@
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\bin\Release\Windmill.exe.config
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\bin\Release\Windmill.exe
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\bin\Release\Windmill.pdb
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.csprojResolveAssemblyReference.cache
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.Form1.resources
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.exe
+D:\Notepad++\Projects\CS 480\Windmill\Windmill\obj\Release\Windmill.pdb

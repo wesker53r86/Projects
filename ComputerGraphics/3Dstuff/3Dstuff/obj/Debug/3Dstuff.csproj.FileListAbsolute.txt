@@ -1,0 +1,21 @@
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Debug\3Dstuff.exe.config
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Debug\3Dstuff.exe
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\bin\Debug\3Dstuff.pdb
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\3Dstuff.csprojResolveAssemblyReference.cache
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\_3Dstuff.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\3Dstuff.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\3Dstuff.exe
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\3Dstuff.pdb
+D:\Notepad++\Projects\CS 480\3Dstuff\3Dstuff\obj\Debug\_3Dstuff.Form1.resources
+E:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\bin\Debug\3Dstuff.exe.config
+E:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.exe
+E:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.pdb
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\bin\Debug\3Dstuff.exe.config
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.exe
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.pdb
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\bin\Debug\3Dstuff.exe
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\bin\Debug\3Dstuff.pdb
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.csprojResolveAssemblyReference.cache
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\_3Dstuff.Form1.resources
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\_3Dstuff.Properties.Resources.resources
+D:\HOMEWORKS\Homework8\3Dstuff\3Dstuff\obj\Debug\3Dstuff.csproj.GenerateResource.Cache

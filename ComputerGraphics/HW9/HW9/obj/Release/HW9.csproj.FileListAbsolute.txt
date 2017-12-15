@@ -1,0 +1,11 @@
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Release\HW9.exe.config
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Release\HW9.exe
+D:\Notepad++\Projects\CS 480\HW9\HW9\bin\Release\HW9.pdb
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Release\HW9.Form1.resources
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Release\HW9.Properties.Resources.resources
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Release\HW9.csproj.GenerateResource.Cache
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Release\HW9.exe
+D:\Notepad++\Projects\CS 480\HW9\HW9\obj\Release\HW9.pdb
+D:\HOMEWORKS\Homework9\HW9\HW9\bin\Release\HW9.exe.config
+D:\HOMEWORKS\Homework9\HW9\HW9\obj\Release\HW9.exe
+D:\HOMEWORKS\Homework9\HW9\HW9\obj\Release\HW9.pdb
