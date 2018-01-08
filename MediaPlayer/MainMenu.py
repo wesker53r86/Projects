@@ -1,7 +1,7 @@
 import tkinter
 from GetFiles import InstanceFile
 import os
-from SoundFuncs import PlaySound
+from SoundFuncs import PlaySound, StopSound
 
 # played = 0
 # def ItemSelected(item,List):
@@ -38,10 +38,12 @@ class Apps(tkinter.Frame):
 	dir
 	list
 	songlist=[]
+	currsong=None
 	def PlaySong(self):
 		if len(self.list.curselection())>0:
 			src = self.list.curselection()[0]
-			PlaySound(src)
+			src = self.songlist[src]
+			self.currsong = PlaySound(src)
 	def Load(self):
 		print("pressed")
 		BN = InstanceFile()
@@ -56,7 +58,7 @@ class Apps(tkinter.Frame):
 			self.list.delete(listselect[0])
 			print (self.songlist)
 	def StopSong(self):
-		print("pressed")
+		StopSound(self.currsong)
 	def __init__(self,TeeKay):
 		butt = tkinter.Button(TeeKay,text = "Play",command = self.PlaySong)
 		butt2 = tkinter.Button(TeeKay,text = "Load",command = self.Load)

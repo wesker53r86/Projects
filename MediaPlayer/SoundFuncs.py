@@ -1,6 +1,12 @@
 #import pyaudio,wave,sys
 import winsound
-import pygame
+import vlc
+#import pygame
 
 def PlaySound(src):
-	winsound.PlaySound(str(src),winsound.SND_FILENAME)
+	print(src)
+	p = vlc.MediaPlayer(src)
+	p.play()
+	return p
+def StopSound(src):
+	src.stop()
