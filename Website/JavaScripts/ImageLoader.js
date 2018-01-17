@@ -31,6 +31,8 @@ function LoadImages(obj)
 		for(i=0;i<zx.length;i++)
 		{
 			var imgVar = document.createElement("img");
+			var imgCont = document.createElement("a");
+			imgCont.setAttribute("href",zx[i]);
 			imgVar.setAttribute("src",zx[i]);
 			imgVar.setAttribute("class","gallery");
 			imgVar.setAttribute("id","galleryImg"+i);
@@ -38,7 +40,8 @@ function LoadImages(obj)
 			//imgSRC.value = zx[i];
 			//imgVar.setAttributeNode(imgSRC);
 			//document.body.appendChild(imgVar);
-			bods.appendChild(imgVar);
+			imgCont.appendChild(imgVar);
+			bods.appendChild(imgCont);
 		}
 	}
 }

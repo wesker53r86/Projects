@@ -6,13 +6,10 @@
 	font-family:HeadFont1;
 	src:url('../Fonts/Ubuntu-C.ttf')
 }
-#MainHeader{
-	background-color:Tomato;
-	text-align:center;
-}
  .Bar2{
 	font-family:BarFont1;
 	font-size:30px;
+	color:#e2e1d9;
 } 
 .Head1{
 	font-family:HeadFont1;
