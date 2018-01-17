@@ -1,0 +1,44 @@
+#MainHeader{
+	background-color:Tomato;
+	/* margin:auto; */
+	text-align:center;
+	/* height:100%; */
+}
+body{
+	min-height:100%;
+}
+#Bars{
+	margin:auto;
+	vertical-align:middle;
+	width:100%;
+	height:10%;
+	position:relative;
+	display:inline-block;
+}
+#wrapper{
+	/* height:inherit;
+	width:inherit; */
+}
+#Content{
+	margin:auto;
+	vertical-align:middle;
+	width: 60%;
+}
+.MainContent{
+	margin:auto;
+	margin-top:20px;
+	width:100%;
+	height:auto;
+	/* vertical-align:middle; */
+	text-align:center;
+}
+ .Bar2{
+	margin:auto;
+	text-align:center;
+	float:left;  
+	width:20%;
+	/* position:relative; */
+} 
+.Head1{
+	/* margin:auto; */
+}

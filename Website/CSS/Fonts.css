@@ -1,0 +1,20 @@
+@font-face{
+	font-family:BarFont1;
+	src:url('../Fonts/UbuntuMono-BI.ttf');
+}
+@font-face{
+	font-family:HeadFont1;
+	src:url('../Fonts/Ubuntu-C.ttf')
+}
+#MainHeader{
+	background-color:Tomato;
+	text-align:center;
+}
+ .Bar2{
+	font-family:BarFont1;
+	font-size:30px;
+} 
+.Head1{
+	font-family:HeadFont1;
+	font-size:50px;
+}
